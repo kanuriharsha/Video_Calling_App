@@ -1,2 +1,1 @@
-Video calling web app using Agora. I have also deployed it in
-preeminent-salamander-566285.netlify.app
+🔗 **Live Demo**: [Video Calling App on Netlify](https://preeminent-salamander-566285.netlify.app)
