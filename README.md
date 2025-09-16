@@ -21,4 +21,4 @@ Our Video Calling App is a real-time communication platform built using Agora RT
 
 🎨 Modern UI/UX – Sleek glassmorphism interface with responsive design for desktop and mobile.
 
-<img width="626" height="626" alt="image" src="https://github.com/user-attachments/assets/b8927f2f-3f8f-4ee2-a65c-90181da254d1" />
+<img width="626" height="626" alt="image" src="https://github.com/user-attachments/assets/f7121dbd-505b-4fd5-8369-d532ea937ecf" />
